@@ -1,1 +1,79 @@
-<mxfile host="app.diagrams.net" modified="2021-06-09T02:52:03.694Z" agent="5.0 (iPad; CPU OS 14_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/91.0.4472.80 Mobile/15E148 Safari/604.1" etag="8qpsTWFX38wyQz0E1gwU" version="14.7.6" type="github"><diagram id="2DEuOgKp3uTtf_PF2Fam" name="Page-1">5VlLb+M2EP41PCYQ9SSPlC23hwS7bQ7bPWpt1lYrm4ZCr+P++g5fejKJi01iFwsYMDl8zzfzzZBC0Wz79EtT7jf3YsVrFAarJxTNURjiIMTwpyQnKyFBaiTrplpZWSd4qP7hbqiVHqoVfxx0lELUstoPhUux2/GlHMjKphHHYbc/RT1cdV+u+UTwsCzrqfRLtZIbIyVh1sl/5dV641bGKTUt29J1tid53JQrceyJogJFs0YIaUrbpxmvlfacXsy4xTOt7cYavpPnDFj+lt8toy+zm+PX+09393///omcbpyav5f1wZ4YFSmiBLEFKmKUQ4HpAlO/IkF5gHKMCoJIhPK5llCUh/aM8uQUB4sDRlDJ4eB7JVzW4gB7yY+bSvKHfblUwiPYDcg2cltDDUOxEYfdiq9szW6PN5I/PXtw3KoTDJGLLZfNCbq4AbE9pLXBm4xawbFDFDuYNj00iZWV1ojW7dydnqFgVf0f1J5M1bUCs7NV0ciNWItdWRedtKeXAGpdnzsh9lZZf3EpT9aHyoMUQ8WCuprTH2r8beKqX+10ujJ/GtROtmb2qjb4MgBwHnFolvyFc0fWg8tmzeUL/WI/oA2vS1l9H+7jzcGJPC6RoTxHeaw9YYFYgQqKWIhIqr0FfnSC6BCvV4z+Dcw8HVk5xonHzGOPmUfvZebZT2rm8Zlmnl7SzGOPmU+MumP+FJFc2T64Ap0jYEZgfjJHNFEFBoVAj5ojBpIFymeIzHwTwqjMhRKGaPSC3+AP8Zts7DcBPjM8xO/lN6mXgQhgkSq9gapJoTWZKghAtyxQUbjQVVb4oAEJUbFbMVmkyMxQGnVRnhhE3CiSDHGcrg5rUQWfWUvN7MVaT3htENNzEU7fC2HiTbvGGm1h7AHLYp2R6Sam+9CZ7txiFWtgo87DAD0Yy7D23UBDBKOwyvLUhKbJGBHxwwjJYE6dpcx7Erfo9WZ/P+Df75b+US/1Eo2pgU+5GlUsS7TrUwCdqKQbHJQZ+ArFx9ZTNWqQj7cFm5jPlNcW2pWVpLWQnhOD8VgOgALTa0EfbIlfLdGOSvV+Ct1EFZ2YZAgov9DXBTXKGE9sJ/SzQqYWUn1aSapYihlDxdrO9VrMkz9cj12RMakElzYr7AvpWpOK71sLAfRDawbA+kzHBGpCgWGMzPIMBOq+NdKsS3wpuWJo4nAMTXZxaBJvSPdcKrDmVY2IIXx1Bdcur/rkNhbk2dCPAuW2asJYoXO90ERJPGJjfHm38QXjc4isx6c20KY6y1o47u6TXZ9GqePuISFeL2zp2KNwEF8ctmkUxUkYRQlJKJlex69HmbDBET35dEk/UpcOuIELTBnHR0+wT7bo5Sg9OwcyUrGkzVqI8iA7IdOviCbMX3MsSaKx5V+esNwpBmi1WtaB2kYVoiO/ieG576Kom9Rlvs3pUpXi0dDil+f/J2zI5aFJp/r60CevqK3rN69b8sqrl6595k0F5+cNevOnsNBmI6++hT2H9cc8hrlt9lyKLaVoJmg6mz9sa9MhypUNV0uAq/zG68/isZKV2EGXb0JKse11YHW1Vg1SjDxDHGRd7fis/YYVTNylEbK0875VlhyPUrGUBLc4mziQM+kP8Z/IF4jaZ4f2w5TJoQJ7gSXDS6Whre4i3PZJNTP2KbL/ZkLc7ZvY103gR5jzeukvxSP6S30P/m9Ef1DtPlXqtt4X36j4Fw==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-06-10T00:41:33.534Z" agent="5.0 (iPad; CPU OS 14_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/91.0.4472.80 Mobile/15E148 Safari/604.1" etag="iiiemLupnGA45PRswnlb" version="14.7.6" type="github">
+  <diagram id="2DEuOgKp3uTtf_PF2Fam" name="Page-1">
+    <mxGraphModel dx="1277" dy="1966" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="cQBLc3WC-wYMOLMkRO8y-10" value="是个人就能干" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
+          <mxGeometry x="140" y="-790" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="cQBLc3WC-wYMOLMkRO8y-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="cQBLc3WC-wYMOLMkRO8y-3" target="cQBLc3WC-wYMOLMkRO8y-4" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cQBLc3WC-wYMOLMkRO8y-3" value="维修领料" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="60" y="-1150" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="cQBLc3WC-wYMOLMkRO8y-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="cQBLc3WC-wYMOLMkRO8y-4" target="cQBLc3WC-wYMOLMkRO8y-6" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cQBLc3WC-wYMOLMkRO8y-4" value="领料人拿着单子来，领料出库" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="70" y="-1010" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="cQBLc3WC-wYMOLMkRO8y-6" value="然后再根据单子到系统上录入，然后打印领料单" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="70" y="-910" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cQBLc3WC-wYMOLMkRO8y-8" value="打印单据太占地，仓库管理员审核领料对不对，" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
+          <mxGeometry x="270" y="-1010" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="cQBLc3WC-wYMOLMkRO8y-9" value="配件适用车型全部都弄好，后期会省事，怎么保证预估领料的料正确性" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
+          <mxGeometry x="280" y="-900" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="cQBLc3WC-wYMOLMkRO8y-14" value="总部和加盟店备件问题" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
+          <mxGeometry x="420" y="-970" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="cQBLc3WC-wYMOLMkRO8y-15" value="维修项目带快捷的搜索" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
+          <mxGeometry x="354" y="-1100" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="cQBLc3WC-wYMOLMkRO8y-18" value="预估领料，库房选的，手写的" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
+          <mxGeometry x="620" y="-1040" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="cQBLc3WC-wYMOLMkRO8y-19" value="15233585989" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
+          <mxGeometry x="585" y="-940" width="190" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="cQBLc3WC-wYMOLMkRO8y-20" value="快捷项目启用，洗车被抱怨" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
+          <mxGeometry x="530" y="-1100" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="cQBLc3WC-wYMOLMkRO8y-21" value="车间主任根据什么排活" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
+          <mxGeometry x="530" y="-800" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="cQBLc3WC-wYMOLMkRO8y-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.31;entryY=0.8;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="cQBLc3WC-wYMOLMkRO8y-22" target="cQBLc3WC-wYMOLMkRO8y-21" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cQBLc3WC-wYMOLMkRO8y-22" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;rounded=1;rotation=1;" parent="1" vertex="1">
+          <mxGeometry x="444" y="-680.17" width="26" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="cQBLc3WC-wYMOLMkRO8y-30" value="不是所有的活都有时间，不一定" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
+          <mxGeometry x="620" y="-700" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="5fobiBRxq_TxYRLoBIRf-1" value="保养结束之后，，配保养贴，查询地址，推送" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="-650" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="5fobiBRxq_TxYRLoBIRf-3" value="配件列表是优先这台车的配件" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="-600" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="5fobiBRxq_TxYRLoBIRf-4" value="保险公司单据和我们的维修单不一样" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="-560" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="5fobiBRxq_TxYRLoBIRf-5" value="消费再提钱，积分和现金" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="655" y="-560" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="5fobiBRxq_TxYRLoBIRf-6" value="不同工种，提成系数" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="670" y="-400" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="5fobiBRxq_TxYRLoBIRf-8" value="报价系统" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="-440" width="120" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
